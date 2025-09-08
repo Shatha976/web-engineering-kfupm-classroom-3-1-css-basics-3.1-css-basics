@@ -95,6 +95,7 @@ p.winner { color: #95a5a6; }
 h4.trending-tag, h5.trending-tag, h6.trending-tag {
     color: #8b9dc3;
     font-family: Arial;
+    
 }
 
 /* TODO 9: Universal Selector */
